@@ -1,6 +1,6 @@
-### Hi there 👋
+### 👋Hi,  I'm Ahirrao Shubham,
 
-  I'm <b> Ahirrao Shubham</b>,<br/>
+ 
 - A Mobile Application Developer with 2+ years of experience in Software Development, Maintenance & Support and Project Execution.
 - Proficiency in technical documentation, design, development and troubleshooting for Mobile Application Development (using via, <b>Java</b>, <b>Kotlin</b>, <b>React Native</b>, etc.)
 - Result oriented, self-driven, highly motivated, smart and hungry to learn new technologies.
