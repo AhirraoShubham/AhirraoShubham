@@ -14,5 +14,6 @@
 • [LinkedIn](https://www.linkedin.com/in/shubham-ahirrao-21b2ba166) • [Twitter](https://twitter.com/ahirrao_shubham) • [GitHub](https://github.com/AhirraoShubham) • [Medium](https://medium.com/@spahirrao8)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AhirraoShubham&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhirraoShubham&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AhirraoShubham)
