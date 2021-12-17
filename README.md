@@ -7,7 +7,7 @@
 - Sound Knowledge of Operating systems internals.
 - Skilled Mass Communicator, Good analytical and problem solving skill.
 - 🔭 I’m currently working on Kotlin(Android), JavaScript(React-Native)
-- 🌱 I’m currently learning more about new technology.
+- 🌱 Learning more about new technology.
 - 💬 Ask me about Android Application Development, React-Native, Python, Flutter, learning and Career.
 - 📫 How to reach me: (Mailto: spahirrao8@gmail.com).<br/>
 [My Site] 
