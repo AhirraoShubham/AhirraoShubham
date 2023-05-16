@@ -2,7 +2,7 @@
 
  
 - A Mobile Application Developer with 3 years of experience in Software Development, Maintenance & Support and Project Execution.
-- Proficiency in technical documentation, design, development and troubleshooting for Mobile Application Development (using via, <b>Java</b>, <b>Kotlin</b>, <b>React Native</b>,  <b>Flutter</b>, etc.)
+- Proficiency in technical documentation, design, development and troubleshooting for Mobile Application Development (using via,  <b>Kotlin</b>, <b>Jetpack Compose</b>, <b>Java</b>, <b>React Native</b>, <b>Flutter</b>, etc.)
 - Result oriented, self-driven, highly motivated, smart and hungry to learn new technologies.
 - Sound Knowledge of Operating systems internals.
 - Skilled Mass Communicator, Good analytical and problem solving skill.
